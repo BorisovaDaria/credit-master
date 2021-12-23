@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Credit Master</string>
+    <string name="credit_master">Credit Master</string>
+    <string name="сalculate_the_loan">Сalculate the loan</string>
+    <string name="alculate_a_bank_deposit">Сalculate a bank deposit</string>
+    <string name="loan">Loan</string>
+    <string name="deposit">Deposit</string>
+    <string name="amount_of_loan">Amount of loan</string>
+    <string name="loan_period_years">Loan period (months)</string>
+    <string name="annual_interest_rate_percent">Monthly interest rate (percent)</string>
+    <string name="calculate">Calculate</string>
+    <string name="monthly_payment">Monthly payment</string>
+</resources>

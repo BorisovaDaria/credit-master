@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Кредитный мастер</string>
+    <string name="credit_master">Кредитный мастер</string>
+    <string name="сalculate_the_loan">Рассчитать кредит</string>
+    <string name="alculate_a_bank_deposit">Рассчитать банковский вклад</string>
+    <string name="loan">Кредит</string>
+    <string name="deposit">Вклад</string>
+    <string name="amount_of_loan">Размер кредита</string>
+    <string name="loan_period_years">Период кредита (месяцы)</string>
+    <string name="annual_interest_rate_percent">Месячная ставка</string>
+    <string name="calculate">Посчитать</string>
+    <string name="monthly_payment">Месячный платеж</string>
+</resources>
