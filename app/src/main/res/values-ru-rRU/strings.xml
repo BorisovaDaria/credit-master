@@ -11,4 +11,7 @@
     <string name="annual_interest_rate_percent">Месячная ставка</string>
     <string name="calculate">Посчитать</string>
     <string name="monthly_payment">Месячный платеж</string>
+    <string name="deposit_amount">Размер вклада</string>
+    <string name="deposit_period">Длительность вклада (месяцы)</string>
+    <string name="total_profit">Итоговый доход</string>
 </resources>

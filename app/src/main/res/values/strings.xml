@@ -10,4 +10,7 @@
     <string name="annual_interest_rate_percent">Monthly interest rate (percent)</string>
     <string name="calculate">Calculate</string>
     <string name="monthly_payment">Monthly payment</string>
+    <string name="deposit_amount">Deposit amount</string>
+    <string name="deposit_period">Deposit period (months)</string>
+    <string name="total_profit">Total Profit</string>
 </resources>
